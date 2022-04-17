@@ -39,7 +39,7 @@ find /media/user/usb/drebin-012345 -type f | xargs -i cp {} ./drebin
 ```
 file ./drebin/fff29f78324c75c8727426d77b128d3ee9df7ba6a1f0be1617be3430ed99d050
 ```
-　-> Java archive data (JAR)
+  -> Java archive data (JAR)
 
 ### 5. Create the dataset
 ```
