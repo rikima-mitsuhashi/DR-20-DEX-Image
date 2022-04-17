@@ -1,4 +1,4 @@
-# UTIMG-Drebin-Top20-AndroidDEX
+# the UTIMG-Drebin-Top20-AndroidDEX dataset
 
 * To enable malware researchers to compare different classification approaches, we disclose how to create our dataset.
 
