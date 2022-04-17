@@ -49,10 +49,13 @@ sudo apt-get install pnmtopng
 ./01_binary_copy.sh
 ```
 ```
-./02_malwareimage.sh
+./02_get_dex.sh
 ```
 ```
-./03_image_copy.sh
+./03_malwareimage.sh
+```
+```
+./04_image_copy.sh
 ```
 
 
