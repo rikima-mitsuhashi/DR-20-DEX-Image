@@ -13,7 +13,6 @@
 # How to create the dataset
 ### 1. Apply for the Drebin dataset
 
-* Apply at the Drebin site. 
 * https://www.sec.cs.tu-bs.de/~danarp/drebin/
 
 ### 2. Access to the Drebin download site 
