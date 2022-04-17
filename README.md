@@ -1,4 +1,4 @@
-# The UTIMG-Drebin-20-AndroidDEX dataset
+# The Drebin-20-DEX-Image dataset
 
 * To enable malware researchers to compare different classification approaches, we disclose how to create our dataset.
 
