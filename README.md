@@ -11,7 +11,7 @@
 *2022 IEEE 46rd Annual Computer Software and Applications Conference (COMPSAC), 2022.*
 
 # How to create the dataset
-### 1. Apply for the Drebin dataset download
+### 1. Apply for downloading the Drebin dataset
 
 * https://www.sec.cs.tu-bs.de/~danarp/drebin/
 
