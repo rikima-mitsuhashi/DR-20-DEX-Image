@@ -38,9 +38,9 @@ find /media/user/usb/drebin-012345 -type f | xargs -i cp {} ./drebin
 
 * Check the file type. 
 ```
-file ./virustotal/0e4d9bc8ddea1aa097399cc55a19f16760c12122080192933ee5d2541dd02862
+file ./drebin/fff29f78324c75c8727426d77b128d3ee9df7ba6a1f0be1617be3430ed99d050
 ```
--> PE32 executable (GUI) Intel 80386, for MS Windows, UPX compressed
+-> Java archive data (JAR)
 
 ### 5. Create the dataset
 ```
