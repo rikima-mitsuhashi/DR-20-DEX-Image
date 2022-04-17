@@ -29,7 +29,7 @@
 ```
 ./00_make_directory.sh
 ```
-* Copy your unzipped malware files to "virustotal" directory.
+* Copy your unzipped malware files to "drebin" directory.
 ```
 find /media/user/usb/drebin-012345 -type f | xargs -i cp {} ./drebin
 ```
