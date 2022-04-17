@@ -18,7 +18,7 @@
 ### 2. Download the Drebin dataset 
 
 * https://www.sec.cs.tu-bs.de/~danarp/drebin/download.html
-* drebin-0.zip, drebin-1.zip, drebin-2.zip, drebin-3.zip drebin-4.zip,and drebin-5.zip
+-> drebin-0.zip, drebin-1.zip, drebin-2.zip, drebin-3.zip drebin-4.zip,and drebin-5.zip
 
 ### 3. Unzip malware files
 * See the reply e-mail.
