@@ -2,7 +2,7 @@
 
 * To enable malware researchers to compare different classification approaches, we disclose how to create our dataset.
 
-* This dataset contains 4,663 malware images from 20 different malware families. The original malware samples are included in the Drebin dataset. 
+* This dataset contains 4,663 malware images from 20 different malware families. The original malware binary programs are included in the Drebin dataset. 
 
 * When your papers use the dataset or script-tools, please cite the following paper.
 
