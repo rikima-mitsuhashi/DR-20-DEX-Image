@@ -11,19 +11,18 @@
 *2022 IEEE 46rd Annual Computer Software and Applications Conference (COMPSAC), 2022.*
 
 # How to create the dataset
-### 1. Apply for the VirusTotal Malware Sample Folder as an academic user
+### 1. Apply for the Drebin dataset
 
-* Apply at the VirusTotal site. If you are approved for an academic account, there is no charge.
-* https://www.virustotal.com/gui/home/upload
-* Contact Us -> I have a commercial inquiry -> I am interested in premium services
+* Apply at the Drebin site. 
+* https://www.sec.cs.tu-bs.de/~danarp/drebin/
 
-### 2. Access to the VirusTotal Malware Sample Folder 
+### 2. Access to the Drebin download site 
 
-* Move to 2020-05-06 folder.
-* Download Win32_EXE.7z.
+* https://www.sec.cs.tu-bs.de/~danarp/drebin/download.html
+* Download drebin-0.zip, drebin-1.zip, drebin-2.zip, drebin-3.zip drebin-4.zip,and drebin-5.zip
 
 ### 3. Unzip malware files
-* See the "README - VirusTotal Academic Malware Samples.docx."
+* See the reply e-mail.
 * Note that these are real malware.
 
 ### 4. Make directory and copy malware files
@@ -33,7 +32,7 @@
 ```
 * Copy your unzipped malware files to "virustotal" directory.
 ```
-find /media/user/usb/Win32_EXE -type f | xargs -i cp {} ./virustotal
+find /media/user/usb/drebin0-5 -type f | xargs -i cp {} ./drebin
 ```
 
 
