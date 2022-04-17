@@ -4,7 +4,7 @@
 
 * This dataset contains 4,663 malware images from 20 different malware families. The original malware binary programs are included in the Drebin dataset. 
 
-* When your papers use the dataset or script-tools, please cite the following paper.
+* When your papers use the dataset or script-tools for the dataset, please cite the following paper.
 
 * R. Mitsuhashi and T. Shinagawa, <br>
 "Exploring Optimal Deep Learning Models for Image-based Malware Variant Classification,"<br>
