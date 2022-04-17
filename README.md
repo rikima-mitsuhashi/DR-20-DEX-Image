@@ -1,4 +1,4 @@
-# The Drebin-20-DEX-Image dataset
+# The Drebin-20-DEX-Image-UT dataset
 
 * To enable malware researchers to compare different classification approaches, we disclose how to create our dataset.
 
