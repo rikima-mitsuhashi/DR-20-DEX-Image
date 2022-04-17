@@ -32,7 +32,7 @@
 ```
 * Copy your unzipped malware files to "virustotal" directory.
 ```
-find /media/user/usb/drebin0-5 -type f | xargs -i cp {} ./drebin
+find /media/user/usb/drebin-0to5 -type f | xargs -i cp {} ./drebin
 ```
 
 
