@@ -80,3 +80,9 @@ eog ./01/0c49a873f66c286996debf6c523c5236b258e0aa48c49c10f211c641b3bcb7c0.dex.pn
 eog ./02/0a38aa7610cec274806a1c8c909091eaca98f0cd71796adc0c8af29f693ad253.dex.png
 ```
 <img src="./sample02.png" width=10%>
+
+# References
+* The VirusTotal-May-2020-Windows-Image dataset
+* https://github.com/rikima-mitsuhashi/VirusTotal-May-2020-Windows-Image
+* The VirusTotal-May-2020-Android-Image dataset
+* https://github.com/rikima-mitsuhashi/VirusTotal-May-2020-Android-Image
