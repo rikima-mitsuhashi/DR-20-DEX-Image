@@ -67,7 +67,7 @@ zip -r -X Drebin-20-DEX-Image.zip ./dataset
 ```
 sha256sum ./Drebin-20-DEX-Image.zip
 ```
--> dc84b7651b67cd6ea0b20dd5e025b972fb00ee4c1b9adc6a25e6e933fef60f21
+-> e9994c9a4a3c7ad8dba1df7d478ac67c2da7d87fe5621478a60aa03003093662
 ```
 eog ./dataset/01/0c49a873f66c286996debf6c523c5236b258e0aa48c49c10f211c641b3bcb7c0.dex.png
 ```
