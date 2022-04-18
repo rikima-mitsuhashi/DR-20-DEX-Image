@@ -71,12 +71,12 @@ sha256sum ./Drebin-20-DEX-Image.tar.gz
 ```
 eog ./dataset/01/0c49a873f66c286996debf6c523c5236b258e0aa48c49c10f211c641b3bcb7c0.dex.png
 ```
-<img src="./sample01.png" width=10%>
+<img src="./sample01.jpg" width=10%>
 
 ```
 eog ./dataset/02/0a38aa7610cec274806a1c8c909091eaca98f0cd71796adc0c8af29f693ad253.dex.png
 ```
-<img src="./sample02.png" width=10%>
+<img src="./sample02.jpg" width=10%>
 
 # References
 * The VirusTotal-May-2020-Windows-Image dataset
