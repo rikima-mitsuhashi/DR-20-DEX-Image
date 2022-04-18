@@ -61,12 +61,12 @@ sudo apt-get install pnmtopng
 
 ### 6. Check the results
 ```
-tar zcvf dataset.tar.gz ./dataset
+tar zcvf Drebin-20-DEX-IMG.tar.gz ./dataset
 ```
 ```
-sha256sum ./dataset.tar.gz
+sha256sum ./Drebin-20-DEX-IMG.tar.gz
 ```
--> 3c619b492a1e9ad59547d8b17d5448c791cee1372771ea4198cc58b0a0037fa4
+-> 5dc3e524dec50c02e8853a42167e0055b9ece587da892bdbe49010f0ae3d7219
 ```
 cd ./dataset
 ```
