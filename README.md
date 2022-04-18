@@ -67,7 +67,7 @@ tar zcvf Drebin-20-DEX-Image.tar.gz ./dataset
 ```
 sha256sum ./Drebin-20-DEX-Image.tar.gz
 ```
--> 5dc3e524dec50c02e8853a42167e0055b9ece587da892bdbe49010f0ae3d7219
+-> dc84b7651b67cd6ea0b20dd5e025b972fb00ee4c1b9adc6a25e6e933fef60f21
 ```
 eog ./dataset/01/0c49a873f66c286996debf6c523c5236b258e0aa48c49c10f211c641b3bcb7c0.dex.png
 ```
