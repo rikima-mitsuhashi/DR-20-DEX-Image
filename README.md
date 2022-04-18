@@ -66,7 +66,7 @@ tar zcvf dataset.tar.gz ./dataset
 ```
 sha256sum ./dataset.tar.gz
 ```
--> 285794ef7c0a4297e7d75e17d9c06bb205609d5ff7681788d12aed9f6f099bb3 
+-> 3c619b492a1e9ad59547d8b17d5448c791cee1372771ea4198cc58b0a0037fa4
 ```
 cd ./dataset
 ```
