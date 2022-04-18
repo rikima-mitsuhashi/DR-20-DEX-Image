@@ -62,10 +62,10 @@ sudo apt-get install pnmtopng
 
 ### 6. Check the results
 ```
-tar zcvf Drebin-20-DEX-Image.tar.gz ./dataset
+zip -r -X Drebin-20-DEX-Image.zip ./dataset
 ```
 ```
-sha256sum ./Drebin-20-DEX-Image.tar.gz
+sha256sum ./Drebin-20-DEX-Image.zip
 ```
 -> dc84b7651b67cd6ea0b20dd5e025b972fb00ee4c1b9adc6a25e6e933fef60f21
 ```
