@@ -79,7 +79,7 @@ eog ./dataset/02/0a38aa7610cec274806a1c8c909091eaca98f0cd71796adc0c8af29f693ad25
 <img src="./sample02.jpg" width=10%>
 
 # References
-* The VirusTotal-May-2020-Windows-Image dataset
-* https://github.com/rikima-mitsuhashi/VirusTotal-May-2020-Windows-Image
-* The VirusTotal-May-2020-Android-Image dataset
-* https://github.com/rikima-mitsuhashi/VirusTotal-May-2020-Android-Image
+* The VT-May-2020-Windows-Image dataset
+* https://github.com/rikima-mitsuhashi/VT-May-2020-Windows-Image
+* The VT-May-2020-Android-Image dataset
+* https://github.com/rikima-mitsuhashi/VT-May-2020-Android-Image
