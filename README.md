@@ -20,9 +20,9 @@
 * https://www.sec.cs.tu-bs.de/~danarp/drebin/download.html <br>
 -> drebin-0.zip, drebin-1.zip, drebin-2.zip, drebin-3.zip drebin-4.zip,and drebin-5.zip
 
-### 3. Unzip the files
-* A Password is written in the reply-mail from the administrator of the Drebin dataset.
-* Note that unzipped files are real malware.
+### 3. Unzip the downloaded files
+* A password is written in the reply-mail from the administrator of the Drebin dataset.
+* Note that the unzipped files are real malware.
 
 ### 4. Make directory and copy malware files
 * The following steps are confirmed in Ubuntu 20.04 LTS.
