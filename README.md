@@ -20,9 +20,9 @@
 * https://www.sec.cs.tu-bs.de/~danarp/drebin/download.html <br>
 -> drebin-0.zip, drebin-1.zip, drebin-2.zip, drebin-3.zip drebin-4.zip,and drebin-5.zip
 
-### 3. Unzip files
+### 3. Unzip the files
 * Password is written in the reply-mail from the administrator of the Drebin dataset.
-* Note that unzipped 5,560 files are real malware.
+* Note that unzipped files are real malware.
 
 ### 4. Make directory and copy malware files
 * The following steps are confirmed in Ubuntu 20.04 LTS.
@@ -36,11 +36,18 @@ find /media/user/usb/drebin-012345 -type f | xargs -i cp {} ./drebin
 ```
 
 
+* Check the number of files. 
+```
+ls | wc -l ./drebin
+```
+  -> 5,560
+
 * Check the file type. 
 ```
 file ./drebin/fff29f78324c75c8727426d77b128d3ee9df7ba6a1f0be1617be3430ed99d050
 ```
   -> Java archive data (JAR)
+  
 
 ### 5. Create the dataset
 ```
