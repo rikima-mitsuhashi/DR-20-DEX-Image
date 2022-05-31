@@ -20,16 +20,16 @@
 * https://www.sec.cs.tu-bs.de/~danarp/drebin/download.html <br>
 -> drebin-0.zip, drebin-1.zip, drebin-2.zip, drebin-3.zip drebin-4.zip,and drebin-5.zip
 
-### 3. Unzip malware files
-* See the reply-mail from the administrator of the Drebin dataset.
-* Note that these are real malware.
+### 3. Unzip files
+* Password is written in the reply-mail from the administrator of the Drebin dataset.
+* Note that unzipped 5,560 files are real malware.
 
 ### 4. Make directory and copy malware files
 * The following steps are confirmed in Ubuntu 20.04 LTS.
 ```
 ./00_make_directory.sh
 ```
-* Copy 5,560 malware files to "drebin" directory.
+* Copy unzipped malware files to "drebin" directory.
 * "/media/user/usb/drebin-012345" should be changed to suit your environment.
 ```
 find /media/user/usb/drebin-012345 -type f | xargs -i cp {} ./drebin
