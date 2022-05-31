@@ -29,7 +29,7 @@
 ```
 ./00_make_directory.sh
 ```
-* Copy unzipped malware files to "drebin" directory.
+* Copy your unzipped malware files to "drebin" directory.
 * "/media/user/usb/drebin-012345" should be changed to suit your environment.
 ```
 find /media/user/usb/drebin-012345 -type f | xargs -i cp {} ./drebin
