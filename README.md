@@ -35,13 +35,6 @@
 find /media/user/usb/drebin-012345 -type f | xargs -i cp {} ./drebin
 ```
 
-
-* Check the number of files. 
-```
-ls | wc -l ./drebin
-```
-  -> 5,560
-
 * Check the file type. 
 ```
 file ./drebin/fff29f78324c75c8727426d77b128d3ee9df7ba6a1f0be1617be3430ed99d050
