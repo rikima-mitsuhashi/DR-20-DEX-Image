@@ -21,7 +21,7 @@
 -> drebin-0.zip, drebin-1.zip, drebin-2.zip, drebin-3.zip drebin-4.zip,and drebin-5.zip
 
 ### 3. Unzip the files
-* Password is written in the reply-mail from the administrator of the Drebin dataset.
+* A Password is written in the reply-mail from the administrator of the Drebin dataset.
 * Note that unzipped files are real malware.
 
 ### 4. Make directory and copy malware files
